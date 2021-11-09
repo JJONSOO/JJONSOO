@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00829C&height=300&section=header&text=HYOJIN%20KIM&fontSize=60&animation=twinkling&fontColor=3D3C3C)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00829C&height=300&section=header&text=JOONSOO%20PARK&fontSize=60&animation=twinkling&fontColor=3D3C3C)
 
 
 <h3 align='center'>🛠 Tech Stack 🛠</h3>
