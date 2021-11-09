@@ -21,11 +21,8 @@
 
  My major is **computer engineering :computer:**. I have project experience using **Python(My most confident language)**, C++, and Java & Android languages. I am very interested in Deep Learning. I am especially interested in **Computer Vision and Image Processing**.
 
-<h3>Blog</h3>
-
-  
-<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=@dustpotato/post-stats-update)](https://velog.io/@dustpopato) -->
-<a href="https://viper1.tistory.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blog&logoColor=white&link=https://https://viper1.tistory.com"/></a>
+### :notebook: Blog<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=@dustpotato/post-stats-update)](https://velog.io/@dustpopato) -->
+<a href="https://viper1.tistory.com"><img src="https://img.shields.io/badge/Blog-0288D1?style=flat-square&logo=Blog&logoColor=white&link=https://https://viper1.tistory.com"/></a>
   
 ### :mega: Contact
 <p> 
