@@ -23,12 +23,10 @@
 
 <h3>Blog</h3>
 
-<div style="text-align:center">
   
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=@dustpotato/post-stats-update)](https://velog.io/@dustpopato) -->
 <a href="https://viper1.tistory.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blog&logoColor=white&link=https://https://viper1.tistory.com"/></a>
   
-</div>
 ### :mega: Contact
 <p> 
     <a href="mailto:jspark97@inha.edu"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link=""/></a>&nbsp
