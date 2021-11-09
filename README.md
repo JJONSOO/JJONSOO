@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
 <img src="https://img.shields.io/badge/Java-3DDC84?style=flat&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Jetson-nano-3DDC84?style=flat&logo=Jetsonnano&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
 
 </p>
 <br></br>
