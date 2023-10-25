@@ -3,13 +3,12 @@
 
 <h3 align='center'>🛠 Tech Stack 🛠</h3>
 
-<p align='center' font-weight='bold'> Techs that I've used at least once.</p>
 <p align='center'>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white"> 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
 <img src="https://img.shields.io/badge/Java-3DDC84?style=flat&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-FF3232?style=flat&logo=Spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/Mysql-00599C?style=flat&logo=Mysql&logoColor=white">
+
 
 </p>
 <br></br>
