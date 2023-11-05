@@ -21,7 +21,7 @@
 ### :mega: Contact
 <p> 
     <a href="mailto:jspark97@inha.edu"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link=""/></a>&nbsp
-    <a href="https://safe-forest-9ce.notion.site/98790a18aa034dc8a2d89deb25008f26"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>&nbsp
+    <a href="https://fluffy-iguana-b27.notion.site/32023c0a38f44f13a1d5c1cca9bb9726?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>&nbsp
 </p>
 
 <br></br>
